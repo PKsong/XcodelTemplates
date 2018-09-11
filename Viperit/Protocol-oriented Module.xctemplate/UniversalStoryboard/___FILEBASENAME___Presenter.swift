@@ -11,6 +11,9 @@ import Viperit
 
 // MARK: - ___VARIABLE_ViperitModuleName___Presenter Class
 final class ___VARIABLE_ViperitModuleName___Presenter: Presenter {
+    override func viewHasLoaded() {
+        self.view.prepare()
+    }
 }
 
 // MARK: - ___VARIABLE_ViperitModuleName___Presenter API

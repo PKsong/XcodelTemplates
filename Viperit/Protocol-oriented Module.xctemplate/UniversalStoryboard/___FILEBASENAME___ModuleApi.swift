@@ -14,6 +14,7 @@ protocol ___VARIABLE_ViperitModuleName___RouterApi: RouterProtocol {
 
 //MARK: - ___VARIABLE_ViperitModuleName___View API
 protocol ___VARIABLE_ViperitModuleName___ViewApi: UserInterfaceProtocol {
+    func prepare()
 }
 
 //MARK: - ___VARIABLE_ViperitModuleName___Presenter API
