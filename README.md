@@ -2,7 +2,6 @@
 
 模板路径：
 
-'''
-   ~/Library/Developer/Xcode/Templates/ 
-  
-'''
+```
+~/Library/Developer/Xcode/Templates/ 
+```
